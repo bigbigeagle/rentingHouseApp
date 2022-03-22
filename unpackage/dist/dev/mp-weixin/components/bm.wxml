@@ -1,0 +1,1 @@
+<view class="global data-v-1e229946"><view class="renderjs data-v-1e229946" msg="{{msg}}" change:msg="{{map.receiveMsg}}" id="renderjs-view" bindtap="{{map.emitData}}"></view><view class="header data-v-1e229946"><view class="data-v-1e229946"></view><view class="map data-v-1e229946" id="allmap"></view></view></view>

@@ -1,0 +1,38 @@
+
+.btn-wrap.data-v-538d56e0 {
+	margin: 100rpx 30rpx;
+}
+.selCity.data-v-538d56e0 {
+	width: 250rpx;
+	margin-left: 15rpx;
+	margin-right: 15rpx;
+	/* top: -7rpx; */
+	height: 75rpx;
+	line-height: 75rpx;
+	
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+
+	/* text {
+		font-size: 30rpx;
+		color: rgb(53, 150, 236);
+		background-color: rgb(53, 150, 236);
+		margin-left: 15rpx;
+		margin-right: 15rpx;
+		border-radius: 20rpx;
+
+		text-align: center;
+		overflow: auto
+	} */
+
+	/* width: 100rpx;
+	display: inline;
+	background-color: rgb(53, 150, 236);
+	margin-left: 15rpx;
+	margin-right: 15rpx;
+	border-radius: 20rpx; */
+	/* width: 100rpx; */
+	/* display: inline; */
+}
+
